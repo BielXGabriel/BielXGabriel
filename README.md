@@ -1,4 +1,4 @@
-Olá! Gabriel Ferreira Aqui ! 🖐️
+<h1 align="center"> Olá! Gabriel Ferreira Aqui ! 🖐️ </h1>
 
 Tecnologias de uso :
 
