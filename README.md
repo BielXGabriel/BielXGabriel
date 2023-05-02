@@ -1,4 +1,9 @@
-### Hi there 👋
+Olá! Gabriel Ferreira Aqui ! 🖐️
+
+Tecnologias que eu uso no meu dia
+html5 css js ts react nodejs
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 <!--
 **BielXGabriel/BielXGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
