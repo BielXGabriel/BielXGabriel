@@ -11,7 +11,8 @@
 ![blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
-<a href="mailto:gabriel.ferreira.economia@gmail.com" >Clique aqui para nos enviar um e-mail!</a>
+<a href="https://mail.google.com/mail/?view=cm&to=gabriel.ferreira.economia@gmail.com">Clique aqui para enviar um e-mail para Gabriel!</a>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BielXGabriel)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
