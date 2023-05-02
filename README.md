@@ -10,9 +10,7 @@ Tecnologias de uso :
 ![blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BielXGabriel)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
