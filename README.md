@@ -20,6 +20,4 @@
 
 <h4>Desenvolvedor Full-Stack com expertise em ecossistemas de mobile e web. Dedicado à excelência técnica, a construir produtos digitais inovadores e ao aprendizado contínuo das melhores práticas de desenvolvimento.</h4>
 
-
- ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  </div>
